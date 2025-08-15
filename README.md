@@ -1,4 +1,6 @@
-# Flight Planner MCP Server
+# Flight Planner MCP Server V2 
+Original Repo was https://github.com/salamentic/google-flights-mcp
+Polish and rebuild.
 
 A Model Context Protocol server that creates travel agent-level flight plans using the fast-flights API.
 
