@@ -43,13 +43,13 @@ python src/flights-mcp-server.py
 {
   "mcpServers": {
     "flight-planner": {
-      "command": "E:/My Projects/Code/google-flights-mcp-main/.venv/Scripts/python.exe",
+      "command": "FolderPath/google-flights-mcp-main/.venv/Scripts/python.exe",
       "args": [
         "-u",
-        "E:/My Projects/Code/google-flights-mcp-main/src/flights-mcp-server.py"
+        "Folder Path"
       ],
       "env": {
-        "PYTHONPATH": "E:/My Projects/Code/google-flights-mcp-main",
+        "PYTHONPATH": "Folder Path",
         "PYTHONUNBUFFERED": "1"
       }
     }
